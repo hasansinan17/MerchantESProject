@@ -1,0 +1,23 @@
+{
+    "id": 34356,
+    "name": "Hasan Sinan",
+    "username": "Kaptan Sinan",
+    "email": "sinankaptan@gmail.com",
+    "address": {
+      "street": "Collingwood Ln.",
+      "suite": "Apt. 12345",
+      "city": "Alphretta",
+      "zipcode": "30022-1337",
+      "geo": {
+        "lat": "-71.4197",
+        "lng": "71.7478"
+      }
+    },
+    "phone": "1-477-935-8478 x6430",
+    "website": "ola.org",
+    "company": {
+      "name": "QA ENGINEER",
+      "catchPhrase": " interface",
+      "bs": "applications"
+    }
+  }
